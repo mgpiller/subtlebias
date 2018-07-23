@@ -6,8 +6,6 @@ Detection of subtle bias using NLP transfer learning
 
 This README.txt is part of the project to detect subtle bias language in Wikipedia articles using the Neutral Point of View (NPOV) dataset.
 
-This project is being completed as part of the AI Insight Fellowship during the Spring of 2018.
-
 The presentation overview for this project can be found here: https://bit.ly/2GwnrLi
 
 Included in this repository are:
